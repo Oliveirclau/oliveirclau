@@ -15,4 +15,4 @@ Bem-vindo ao meu perfil GitHub
 
 Minhas habilidades
 
-[ ! Minhas habilidades](https://skillicons.dev/icons?i=js,eclipse,idea,java,mysql,nodejs,py,react,solidjs,vscode) ] (https://skillicons.dev)
+[ ! [Minhas habilidades](https://skillicons.dev/icons?i=js,eclipse,idea,java,mysql,nodejs,py,react,solidjs,vscode) ] (https://skillicons.dev)

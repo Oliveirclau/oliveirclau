@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil GitHub
 
 📫Contato: oliveirclau@hotmail.com
 
-🖥️Tecnologias que eu dominó
+🖥️Tecnologias que eu domino
 
 Minhas habilidades
 

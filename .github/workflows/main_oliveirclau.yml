@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'oliveirclau'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FDC5FAC3115943D1859B8C8D19433B1F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57CFC26E9D2E4CAA9BF04AC92EC190ED }}
           package: '*.war'

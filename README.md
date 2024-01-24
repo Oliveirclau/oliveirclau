@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil GitHub
 
 👨🏻‍💻 Sobre mim
 
-🌱Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+🌱Formado em Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 🚀Sempre procurando evoluir no Back-end e QA
 

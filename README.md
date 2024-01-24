@@ -1,5 +1,5 @@
 ### Hi there 👋
-" "Me chamo Cláudio Oliveira""
+" "Me name is Cláudio Oliveira""
 
 Bem-vindo ao meu perfil GitHub
 
